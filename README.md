@@ -243,25 +243,29 @@ BLOG-POST-LIST:END
 <!-- 项目卡片1 -->
 
 <a href="https://github.com/totrytakeoff/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=totrytakeoff&repo=project1&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=totrytakeoff&repo=MyChat&theme=radical" />
 </a>
 
 <!-- 项目卡片2 -->
 
 <a href="https://github.com/totrytakeoff/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=totrytakeoff&repo=project2&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=totrytakeoff&repo=ByteIDE&theme=radical" />
 </a>
 
 <!-- 项目卡片3 -->
 
 <a href="https://github.com/totrytakeoff/project3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=totrytakeoff&repo=project3&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=totrytakeoff&repo=mcu&theme=radical" />
 </a>
 
 <!-- 项目卡片4 -->
 
 <a href="https://github.com/totrytakeoff/project4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=totrytakeoff&repo=project4&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=totrytakeoff&repo=remote_car&theme=radical" />
+</a>
+
+<a href="https://github.com/totrytakeoff/project4">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=totrytakeoff&repo=car_simulation&theme=radical" />
 </a>
 
 </div>
