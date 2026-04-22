@@ -265,7 +265,7 @@ BLOG-POST-LIST:END
 </a>
 
 <a href="https://github.com/totrytakeoff/project4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=totrytakeoff&repo=car_simulation&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=totrytakeoff&repo=RM2026&theme=radical" />
 </a>
 
 </div>
